@@ -1,4 +1,4 @@
-# Autoencoder
+Autoencoder
 ===
 * Reconstruct MNSIT data with noise using Convolutional Autoencoder
 
